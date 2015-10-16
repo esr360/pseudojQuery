@@ -20,8 +20,6 @@
         "README.html",
         "README.md",
         "LICENSE",
-        "node_modules",
-        "Gruntfile.js",
-        "*.json"
+        "node_modules"
     ]
 }
