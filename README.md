@@ -16,6 +16,15 @@ bower install sudojQuery
 
 ### Usage
 
+#### Build with Grunt
+
+If you are using Grunt, run the default `grunt` task in the `sudojQuery` root directory to compile the minified files.
+
+#### Download Minified Files
+
+* [sudojQuery-start.min.js](https://raw.githubusercontent.com/esr360/sudojQuery/build-compiled/sudojQuery-start.min.js)
+* [sudojQuery-end.min.js](https://raw.githubusercontent.com/esr360/sudojQuery/build-compiled/sudojQuery-end.min.js)
+
 To use sudojQuery, place the `sudojQuery-start.min.js` file in the `<head>` section of your HTML, and place the `sudojQuery-end.min.js` file after your inclusion of jQuery, and you're good to go:
 
 ```html
