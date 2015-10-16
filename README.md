@@ -67,3 +67,13 @@ To use sudojQuery, place the `sudojQuery-start.min.js` file in the `<head>` sect
 ```
 
 > Your jQuery code must be contained within a document.ready function as shown above.
+
+### Changelog
+
+#### Version 1.1.0
+
+Released: 16th October 2016
+
+###### Release Notes
+
+* removing compiled minified files from master branch
