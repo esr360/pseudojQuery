@@ -31,7 +31,7 @@ To use sudojQuery, place the `sudojQuery-start.min.js` file in the `<head>` sect
 <body>
     
     <script>
-        <!-- some jQuery code -->
+        // some jQuery code
         $(document).ready(function() {
             alert("Success!");
         });
