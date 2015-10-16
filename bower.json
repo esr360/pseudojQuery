@@ -1,6 +1,6 @@
 {
 	"name":"sudojQuery",
-	"description":"Safely use .ready() before including jQuery.",
+	"description":"Safely use .ready() before including jQuery",
 	"version":"1.0.0",
 	"main":[
 		"src/sudojQuery-start.js",
