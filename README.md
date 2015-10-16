@@ -72,7 +72,7 @@ To use sudojQuery, place the `sudojQuery-start.min.js` file in the `<head>` sect
 
 #### Version 1.1.0
 
-Released: 16th October 2016
+Released: 16th October 2015
 
 ###### Release Notes
 
