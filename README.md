@@ -50,4 +50,4 @@ To use sudojQuery, place the `sudojQuery-start.min.js` file in the `<head>` sect
 </body>
 ```
 
-> Note that your jQuery code must be containt within a document.ready function, as shown above.
+> Note that your jQuery code must be contained within a document.ready function as shown above.
