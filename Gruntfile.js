@@ -30,13 +30,6 @@ module.exports = function(grunt) {
                 options: {
                     spawn: false,
                 },
-            },
-            css: {
-                files: ['**/*.scss'],
-                tasks: ['sass'],
-                options: {
-                    spawn: false,
-                }
             }
         }
 		
