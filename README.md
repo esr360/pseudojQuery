@@ -20,6 +20,8 @@ bower install sudojQuery
 
 If you are using Grunt, run the default `grunt` task in the `sudojQuery` root directory to compile the minified files.
 
+Or...
+
 ##### Download Minified Files
 
 * [sudojQuery-start.min.js](https://raw.githubusercontent.com/esr360/sudojQuery/build-compiled/sudojQuery-start.min.js)
