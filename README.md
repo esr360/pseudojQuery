@@ -8,7 +8,7 @@ SudojQuery allows you to include jQuery code anywhere in your HTML, even before 
 
 Minified, the `sudojQuery-start` and `sudojQuery-end` files are only **209 bytes** and **123 bytes** respectively.
 
-#### Bower Installation
+##### Bower Installation
 
 ```
 bower install sudojQuery
