@@ -16,4 +16,38 @@ bower install sudojQuery
 
 ### Usage
 
-To use sudojQuery, place the `sudojQuery-start.min.js` file in the `<head>` section of your HTML, and place the `sudojQuery-end.min.js` file after your inclusion of jQuery, and you're good to go.
+To use sudojQuery, place the `sudojQuery-start.min.js` file in the `<head>` section of your HTML, and place the `sudojQuery-end.min.js` file after your inclusion of jQuery, and you're good to go:
+
+```html
+<head>
+    
+    ...
+    
+    <!-- sudojQuery start -->
+    <script src="sudojQuery-start.min.js"></script>
+    
+</head>
+
+<body>
+    
+    <script>
+        <!-- some jQuery code -->
+        $(document).ready(function() {
+            alert("Success!");
+        });
+        jQuery(document).ready(function() {
+            alert("Success!");
+        });
+    </script>
+    
+    <!-- jQuery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    
+    <!-- sudojQuery end -->
+    <script src="sudojQuery-end.min.js"></script>
+    
+    
+</body>
+```
+
+> Note that your jQuery code must be containt within a document.ready function, as shown above.
