@@ -18,7 +18,13 @@ bower install sudojQuery
 
 ##### Build with Grunt
 
-If you are using Grunt, run the default `grunt` task in the `sudojQuery` root directory to compile the minified files.
+If you are using Grunt, navigate to your `sudoJQuery` directory and run:
+
+```
+npm install
+```
+
+This will install the Node dependencies. Then run the default `grunt` task  compile the minified files.
 
 Or...
 
