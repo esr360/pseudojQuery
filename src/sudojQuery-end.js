@@ -1,6 +1,10 @@
-// Safely use .ready() before including jQuery
-// https://github.com/esr360/sudojQuery
-// http://writing.colin-gourlay.com/safely-using-ready-before-including-jquery/
+/*-----------------------------------------------------------------
+
+SudojQuery
+https://github.com/esr360/sudojQuery
+http://writing.colin-gourlay.com/safely-using-ready-before-including-jquery/
+
+-----------------------------------------------------------------*/
 
 (function ($, doc) {
     $.each(readyQ, function (index, handler) {

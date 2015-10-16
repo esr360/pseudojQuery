@@ -1,3 +1,11 @@
+/*-----------------------------------------------------------------
+
+SudojQuery
+https://github.com/esr360/sudojQuery
+http://writing.colin-gourlay.com/safely-using-ready-before-including-jquery/
+
+-----------------------------------------------------------------*/
+
 module.exports = function(grunt) {
 
     grunt.initConfig({
