@@ -18,7 +18,7 @@ bower install sudojQuery
 
 ##### Build with Grunt
 
-If you are using Grunt, navigate to your `sudoJQuery` directory and run:
+If you are using Grunt, navigate to your `sudojQuery` directory and run:
 
 ```
 npm install
