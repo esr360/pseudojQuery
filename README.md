@@ -30,8 +30,8 @@ Or...
 
 ##### Download Minified Files
 
-* [sudojQuery-start.min.js](https://raw.githubusercontent.com/esr360/pseudojQuery/build-compiled/pseudojQuery-start.min.js)
-* [sudojQuery-end.min.js](https://raw.githubusercontent.com/esr360/pseudojQuery/build-compiled/pseudojQuery-end.min.js)
+* [pseudojQuery-start.min.js](https://raw.githubusercontent.com/esr360/pseudojQuery/build-compiled/pseudojQuery-start.min.js)
+* [pseudojQuery-end.min.js](https://raw.githubusercontent.com/esr360/pseudojQuery/build-compiled/pseudojQuery-end.min.js)
 
 To use sudojQuery, place the `sudojQuery-start.min.js` file in the `<head>` section of your HTML, and place the `pseudojQuery-end.min.js` file after your inclusion of jQuery, and you're good to go:
 
