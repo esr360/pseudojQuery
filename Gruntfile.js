@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------
 
 SudojQuery
-https://github.com/esr360/sudojQuery
+https://github.com/esr360/pseudojQuery
 http://writing.colin-gourlay.com/safely-using-ready-before-including-jquery/
 
 -----------------------------------------------------------------*/
@@ -14,12 +14,12 @@ module.exports = function(grunt) {
 		
         uglify: {
             sudojQueryStart: {
-                src: 'src/sudojQuery-start.js',
-                dest: 'sudojQuery-start.min.js'
+                src: 'src/pseudojQuery-start.js',
+                dest: 'pseudojQuery-start.min.js'
             },
             sudojQueryEnd: {
-                src: 'src/sudojQuery-end.js',
-                dest: 'sudojQuery-end.min.js'
+                src: 'src/pseudojQuery-end.js',
+                dest: 'pseudojQuery-end.min.js'
             }
         },
 		
