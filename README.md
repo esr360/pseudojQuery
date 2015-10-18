@@ -1,4 +1,4 @@
-# sudojQuery
+# pseudojQuery
 
 > Safely use .ready() before including jQuery
 
