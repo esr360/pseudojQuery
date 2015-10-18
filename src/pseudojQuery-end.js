@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------
 
-SudojQuery
+PseudojQuery
 https://github.com/esr360/sudojQuery
 http://writing.colin-gourlay.com/safely-using-ready-before-including-jquery/
 
