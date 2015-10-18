@@ -1,10 +1,10 @@
 {
-    "name":"sudojQuery",
+    "name":"pseudojQuery",
     "description":"Safely use .ready() before including jQuery",
     "version":"1.1.0",
     "main":[
-        "src/sudojQuery-start.js",
-        "src/sudojQuery-end.js"
+        "src/pseudojQuery-start.js",
+        "src/pseudojQuery-end.js"
     ],
     "keywords":[
         "jQuery",
