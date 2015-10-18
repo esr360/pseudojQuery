@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------
 
-SudojQuery
-https://github.com/esr360/sudojQuery
+PseudojQuery
+https://github.com/esr360/pseudojQuery
 http://writing.colin-gourlay.com/safely-using-ready-before-including-jquery/
 
 -----------------------------------------------------------------*/
